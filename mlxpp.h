@@ -28,8 +28,8 @@ struct		s_rgb24
 	unsigned int	r : 8;
 };
 
-typedef struct s_rgba	t_rgba;
-typedef struct s_rgba	t_rgba32;
+typedef struct s_rgba32	t_rgba;
+typedef struct s_rgba32	t_rgba32;
 struct		s_rgba32
 {
 	unsigned int	b : 8;
