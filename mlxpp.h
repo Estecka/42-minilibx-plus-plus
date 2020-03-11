@@ -19,8 +19,8 @@
 */
 extern void	*g_mlx;
 
-typedef struct s_rgb	t_rgb;
-typedef struct s_rgb	t_rgb24;
+typedef struct s_rgb24	t_rgb;
+typedef struct s_rgb24	t_rgb24;
 struct		s_rgb24
 {
 	unsigned int	b : 8;
